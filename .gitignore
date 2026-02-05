@@ -1,0 +1,69 @@
+# MATLAB
+*.asv
+*.m~
+*.fig
+*.slxc
+*.mlappinstall
+*.mltbx
+*.prj
+*.slx.autosave
+*.slxp
+*.ctf
+*.ctfx
+*.p
+*.pcode
+*.mexw64
+*.mexw32
+*.mexa64
+*.mexmaci64
+*.mexmaca64
+
+# MATLAB generated files
+*.asv
+*.autosave
+
+# Compiled files
+*.class
+*.o
+*.obj
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+._*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Data files (uncomment if you don't want to track large data files)
+# *.mat
+# *.csv
+# *.xlsx
+
+# HTML/PDF outputs (uncomment if you don't want to track generated outputs)
+# *.html
+# *.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
