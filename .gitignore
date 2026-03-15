@@ -67,3 +67,7 @@ __pycache__/
 venv/
 env/
 ENV/
+
+# Long-path dataset (Windows 260-char limit); ETH80 data in part_5 coursework
+**/part_5/**/coursework/data/ETH80/
+**/ETH80/original/
